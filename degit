@@ -1,0 +1,7 @@
+# Clone the template
+npx degit chromaui/intro-storybook-react-template taskbox
+
+cd taskbox
+
+# Install dependencies
+yarn
